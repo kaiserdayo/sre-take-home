@@ -5,7 +5,7 @@
 Fork this repository and follow the guidelines below. When you are finished, or when you have run out of time, share a link to your forked repository back with the hiring team for review.
 
 - **Mid-Level SRE candidates**: Complete the base assignment below. Try to spend **4 hours or less**.
-- **Senior SRE candidates**: Complete the base assignment **and** the [Senior SRE Extension](#senior-sre-extension) section. Try to spend **6 hours or less**.
+- **Senior SRE candidates**: Complete the base assignment **and** pick 2 items from the [Senior SRE Extension](#senior-sre-extension). Try to spend **6 hours or less**.
 
 This exercise is intentionally open-ended. We care about how you approach the work, how you communicate tradeoffs, and how you shape a delivery pipeline around a realistic application.
 
