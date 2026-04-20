@@ -1,4 +1,4 @@
-# SRE Take-Home Assessment — Adedayo Aneke
+# SRE Take-Home Assessment — Adedayo 
 
 ## Overview
 
