@@ -1,0 +1,15 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: candidate-api
+spec:
+  replicas: 2
+  template:
+    spec:
+      containers:
+        - name: candidate-api
+          env:
+            - name: ASPNETCORE_ENVIRONMENT
+              value: Test
+            - name: CandidateApi__Region
+              value: "us-central-1-test"

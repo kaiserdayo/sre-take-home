@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: candidate-api-test
+  labels:
+    app.kubernetes.io/part-of: sre-take-home
+    environment: test
